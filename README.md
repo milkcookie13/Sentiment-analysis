@@ -23,9 +23,14 @@
 
 2. Создайте виртуальное окружение
 
-    ```bash
-    python -m venv venv
-    ```
+     - На Windows:
+        ```bash
+        py -m venv venv
+        ```
+    - На macOS/Linux:
+        ```bash
+        python3 -m venv venv
+        ```
 
 3. Активируйте виртуальное окружение
 
