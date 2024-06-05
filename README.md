@@ -17,7 +17,7 @@
 1. Склонируйте репозиторий
 
     ```bash
-    https://github.com/milkcookie13/Sentiment-analysis.git
+    git clone https://github.com/milkcookie13/Sentiment-analysis.git
     ```
 2. Перейдите в директорию проекта
    
