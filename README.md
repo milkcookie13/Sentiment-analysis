@@ -17,8 +17,8 @@
 1. Склонируйте репозиторий
 
     ```bash
-    git clone https://github.com/ваше-имя-пользователя/ваш-репозиторий.git
-    cd ваш-репозиторий
+    https://github.com/milkcookie13/Sentiment-analysis.git
+    cd Sentiment-analysis
     ```
 
 2. Создайте виртуальное окружение
