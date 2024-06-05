@@ -1,5 +1,6 @@
 # Приложение для анализа тональности текста
-![image](https://github.com/milkcookie13/Sentiment-analysis/assets/67330104/7a0ccf94-9d8b-462c-9f93-0bcf50fb04ff)
+![image](https://github.com/milkcookie13/Sentiment-analysis/assets/67330104/235760b5-f160-46a7-be76-6fec10fbf520)
+
 
 Это приложение для анализа настроений, написанное на Python с использованием Flask. Оно позволяет пользователям отправлять текст и получать анализ настроения текста в формате JSON.
 
