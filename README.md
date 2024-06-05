@@ -18,10 +18,15 @@
 
     ```bash
     https://github.com/milkcookie13/Sentiment-analysis.git
-    cd Sentiment-analysis
     ```
+2. Перейдите в директорию проекта
+   
+   ```bash
+    cd Sentiment-analysis
+   ```
+    
 
-2. Создайте виртуальное окружение
+3. Создайте виртуальное окружение
 
      - На Windows:
         ```bash
@@ -32,7 +37,7 @@
         python3 -m venv venv
         ```
 
-3. Активируйте виртуальное окружение
+4. Активируйте виртуальное окружение
 
     - На Windows:
         ```bash
@@ -43,7 +48,7 @@
         source venv/bin/activate
         ```
 
-4. Установите зависимости
+5. Установите зависимости
 
     ```bash
     pip install --upgrade pip
